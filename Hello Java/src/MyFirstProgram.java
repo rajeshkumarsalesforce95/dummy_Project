@@ -13,6 +13,12 @@ class Add{
         c=a+b;
         system.out.println("Addition of a and b :"+c);
     }
+    public void Multi(){
+        int a=30,b=40,c;
+        c=a*b;
+        system.out.println("Multiply by a and b :" +c);
+
+}
 
 }
 
