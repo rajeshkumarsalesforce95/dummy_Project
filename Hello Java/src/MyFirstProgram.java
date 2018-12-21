@@ -19,6 +19,11 @@ class Add{
         system.out.println("Multiply by a and b :" +c);
 
 }
+    public void Sub(){
+        int a=50,b=40,c;
+        c=a-b;
+        system.out.println("Subtract a and b :" +c);
+     }
 
 }
 
