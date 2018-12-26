@@ -13,6 +13,7 @@ class Add{
         c=a+b;
         system.out.println("Addition of a and b :"+c);
     }
+<<<<<<< HEAD
     public void Multi(){
         int a=30,b=40,c;
         c=a*b;
@@ -24,6 +25,8 @@ class Add{
         c=a-b;
         system.out.println("Subtract a and b :" +c);
      }
+=======
+>>>>>>> parent of 1e63cfe... Multiply a and b
 
 }
 
